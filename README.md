@@ -1,6 +1,6 @@
 # Personal Information:
 -  Name: Hoang Cong Nam Nguyen (or Ned Hoang )
--  Age: 24
+-  Age: 25
 -  Nationality: Vietnamese
 -  Current Location: Australia
 # Education: 
